@@ -21,10 +21,10 @@ Este projeto foi desenvolvido com fins **acadêmicos e de pesquisa**, visando:
 
 ### Seleção da Unidade da Federação
 
-![Seleção da UF](tela_ceara.png)
+![Seleção da UF](tela_inicial.png)
 
 ### Listagem de Municípios e Instituições
-![Lista de Municípios](images/sistec_municipios.png)
+![Lista de Municípios](tela_ceara.png)
 
 As imagens acima representam as telas automatizadas pelo bot durante a execução.
 
